@@ -1,1 +1,1 @@
-# UnitConverter-1.2
+# CurrencyConverter-1.2

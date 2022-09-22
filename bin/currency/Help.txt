@@ -1,0 +1,29 @@
+	This is Currency Converter 1.0. 
+	You can convert 6 types of cross-currency conversions using this application.
+	This is a simple offline application
+	that can be used to switch between 6 types of mostly
+	used currencies in the world
+
+	Fallowing currencies can be cross-converted using this converter.
+MMMMMMMMMMMMMMMMMMMMWMMWWMMMWMMMMMMMMMMM	USD($) - United States Dollars
+MMMMMMMMMWWMMMMMMMMMMMMWMMMMMMMMMMMMMMMM	GBP(£) - Great Bretain Pounds						CNY(¥) - Chinese Yuans
+MMMMMMMMMMMMMMWWXKXWMMMMMMMMMMMMMMMMMMMM	JPY(¥) - Japanese Yens
+MMMMMMMMMMMN0dc,..oNMMMMMMXkoOWMMMWMMMMM	INR(₹) - Indian Rupees
+MMMWMMMMWXx;... .:0WMMWN0x:. .oOXWWMMMMM	LKR(Rs) - Sri Lankan Rupees
+MMMMMMMNk,.;dl..dNMMWNx,.       .lKWMMMM
+MMMWMMNo. .:c. ;k0XNKo   .:ddc.   ;KMMMM
+MMWMMWd..cl:.  .',d0x,   ,KMMWx'..;OWMMM
+MMMMM0,.oNMX; cKKKNXKl   .:xKNNNXXNWWWMM
+MMMMMk. '::,. .:::kWWXo'    .,cx0NMMMMMM
+MMMWWk. ;ooc. ,oooOWWMWXko;.    .:OWMMMM
+MMMMMK; lNWK; ;kkkKNXXXXNWWXOo.   'OMWMM
+MMMMMWk..,;'.  .',do'...;OWMMWo   .xWMMM
+MMWMMMWx. .cd, ;0NNk:.   'lddl.   '0MMMM
+MMMMMWMW0c..cc..cXWWNOc.        .:0WMMMM
+MMMMMMMMMW0l,.   'kWMMWXOd;  ,okKWMMMMMM
+MMMMMMMMMWMWN0dl:;dNMMMMMMXkxKWMMMMMMMMM
+MMMMMMMMWWMMMMMMWWWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWWMMMMMMMMWMMMMMMMMMMMMMMMMMMMMM
+MMMMMMMMWMMMMMMMMMMMMMWMMWMMMMWMMMMMMMMM
+
+
